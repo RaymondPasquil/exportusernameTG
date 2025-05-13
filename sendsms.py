@@ -5,8 +5,8 @@ from telethon.errors import FloodWaitError, UserPrivacyRestrictedError, PeerFloo
 import os
 
 # 🔐 Your Telegram credentials (consider storing these in environment variables or a secure file)
-api_id = os.getenv('API_ID')  # Replace with your real api_id
-api_hash = os.getenv('API_HASH')  # Replace with your real api_hash
+api_id = os.getenv('26969028')  # Replace with your real api_id
+api_hash = os.getenv('b7ee890512bb3ed73ed6c0d093a82a21')  # Replace with your real api_hash
 
 # ✅ Custom message to send
 message = """👋 Hey! Hope you're doing awesome 😊  
